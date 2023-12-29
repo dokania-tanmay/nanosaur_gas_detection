@@ -13,4 +13,4 @@ Please find details in our [report.](report.pdf)
 
 We were awarded the Best Project Award for our work, and it was featured on [Wadhwani Electronics Laboratory's YouTube Channel!](https://youtu.be/vspevFlvx1A)
 
-Authors: Tanmay Dokania, Navneet, Aziz Shameem
+# Authors: Tanmay Dokania, Navneet, Aziz Shameem
