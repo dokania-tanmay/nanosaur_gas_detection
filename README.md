@@ -12,3 +12,5 @@ The high level idea was to use the data from gas sensors and localization from V
 Please find details in our [report.](report.pdf)
 
 We were awarded the Best Project Award for our work, and it was featured on [Wadhwani Electronics Laboratory's YouTube Channel!](https://youtu.be/vspevFlvx1A)
+
+Authors: Tanmay Dokania, Navneet, Aziz Shameem
